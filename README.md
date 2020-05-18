@@ -1,4 +1,4 @@
-# A introduction to DR-DLMA
+# An introduction of DR-DLMA
 We put forth a new deep reinforcement learning algorithm, referred to as delayed-reward deep Q-network (DR-DQN). 
 Then we use this algorithm to design a new medium access control (MAC) protocol for underwater acousitc networks (UWANs) with large propagation latency, called DR-DLMA. 
 # About 1.pdf
