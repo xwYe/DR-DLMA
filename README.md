@@ -16,4 +16,4 @@ It can give the real-time network throughput after run.py is run.
 # Partly open-sourced
 Currently, only the simulation codes of the coexistence of one DR-DLMA node and one TDMA node in UWANs with no-negligible long propagation delay are provided. 
 In addition, the simulation code we give does not contain our proposed adaptive deep neural network (DNN) training mechanism.
-More simulation codes will be available after our paper gets accepted.
+More simulation codes will be available after our paper gets published.
